@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`header component it renders correctly 1`] = `
+<header class="main-header">
+  <section>
+    <img class="main-header__logo"
+         src="[object Object]"
+         alt="logo-img"
+    >
+    <aside class="main-header__bag">
+      <p>
+        €39,000.00
+      </p>
+      <img src="[object Object]"
+           alt="bag-icon"
+      >
+    </aside>
+  </section>
+</header>
+`;

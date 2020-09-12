@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`loading component it renders correctly 1`] = `
+<div class="loading">
+  <img src="[object Object]"
+       alt="spinner"
+  >
+</div>
+`;

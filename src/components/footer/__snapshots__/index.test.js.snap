@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`footer component it renders correctly 1`] = `
+<footer>
+  <div class="container">
+    <p>
+      FE Challenge by Rita Leitão
+    </p>
+  </div>
+</footer>
+`;

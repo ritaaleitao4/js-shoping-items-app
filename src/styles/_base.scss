@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+  
+body,
+html {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+  
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* styling container */
+.container {
+    max-width: 1024px;
+    width: 100%;
+    padding: 0 53px; //(1024 - 918) / 2
+    margin: 0 auto;
+}
+  

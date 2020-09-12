@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`product card component it renders correctly 1`] = `
+<li class="product-card ">
+  <h2>
+    A200
+  </h2>
+  <div class="product-card__content">
+    <div class="product-card__content__image">
+      <img src="/assets/carImages/aclasswhite.jpg"
+           alt="A 200"
+      >
+    </div>
+    <div class="product-card__content__info">
+      <p>
+        €29,500.00
+      </p>
+    </div>
+    <button class="add-to-bag"
+            id="0"
+    >
+      Add to Shopping Bag
+    </button>
+  </div>
+</li>
+`;

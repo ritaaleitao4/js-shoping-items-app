@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`product list component it renders correctly 1`] = `
+<section class="product-list">
+  <div class="container">
+    <div class="product-list__header">
+      <h1>
+        Cars in Stock
+      </h1>
+      <input id="search-box"
+             type="text"
+             placeholder="Type to Filter..."
+      >
+    </div>
+    <ul class="product-list__items">
+      <li class="product-card ">
+        <h2>
+          A200
+        </h2>
+        <div class="product-card__content">
+          <div class="product-card__content__image">
+            <img src="/assets/carImages/aclasswhite.jpg"
+                 alt="A 200"
+            >
+          </div>
+          <div class="product-card__content__info">
+            <p>
+              €29,500.00
+            </p>
+          </div>
+          <button class="add-to-bag"
+                  id="0"
+          >
+            Add to Shopping Bag
+          </button>
+        </div>
+      </li>
+      <li class="product-card ">
+        <h2>
+          A200 Auto
+        </h2>
+        <div class="product-card__content">
+          <div class="product-card__content__image">
+            <img src="/assets/carImages/aclasssilver.jpg"
+                 alt="A 200 Auto"
+            >
+          </div>
+          <div class="product-card__content__info">
+            <p>
+              €31,900.50
+            </p>
+          </div>
+          <button class="add-to-bag"
+                  id="1"
+          >
+            Add to Shopping Bag
+          </button>
+        </div>
+      </li>
+      <li class="product-card ">
+        <h2>
+          A250 Auto
+        </h2>
+        <div class="product-card__content">
+          <div class="product-card__content__image">
+            <img src="/assets/carImages/aclassred.jpg"
+                 alt="A 250 Auto"
+            >
+          </div>
+          <div class="product-card__content__info">
+            <p>
+              €45,400.10
+            </p>
+          </div>
+          <button class="add-to-bag"
+                  id="2"
+          >
+            Add to Shopping Bag
+          </button>
+        </div>
+      </li>
+      <li class="product-card ">
+        <h2>
+          A180 d
+        </h2>
+        <div class="product-card__content">
+          <div class="product-card__content__image">
+            <img src="/assets/carImages/aclassred.jpg"
+                 alt="A 180 d"
+            >
+          </div>
+          <div class="product-card__content__info">
+            <p>
+              €29,050.00
+            </p>
+          </div>
+          <button class="add-to-bag"
+                  id="3"
+          >
+            Add to Shopping Bag
+          </button>
+        </div>
+      </li>
+      <li class="product-card ">
+        <h2>
+          A200 d Auto
+        </h2>
+        <div class="product-card__content">
+          <div class="product-card__content__image">
+            <img src="/assets/carImages/aclasswhite.jpg"
+                 alt="A 200 d Auto"
+            >
+          </div>
+          <div class="product-card__content__info">
+            <p>
+              €38,350.00
+            </p>
+          </div>
+          <button class="add-to-bag"
+                  id="4"
+          >
+            Add to Shopping Bag
+          </button>
+        </div>
+      </li>
+      <li class="product-card ">
+        <h2>
+          A220 d Auto
+        </h2>
+        <div class="product-card__content">
+          <div class="product-card__content__image">
+            <img src="/assets/carImages/aclasssilver.jpg"
+                 alt="A 220 d Auto"
+            >
+          </div>
+          <div class="product-card__content__info">
+            <p>
+              €43,800.70
+            </p>
+          </div>
+          <button class="add-to-bag"
+                  id="5"
+          >
+            Add to Shopping Bag
+          </button>
+        </div>
+      </li>
+    </ul>
+  </div>
+</section>
+`;
