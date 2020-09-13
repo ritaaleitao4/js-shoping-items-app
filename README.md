@@ -1,7 +1,5 @@
 ## Listings App - Rita Leitão
 
-Demo URL: https://shoping-items.netlify.app/
-
 ### Project setup
 ```
 npm install
