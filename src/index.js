@@ -3,7 +3,7 @@ import Header from './components/header';
 import Footer from './components/footer';
 import ProductsList from './components/products-list';
 import Loading from './components/loading';
-import SmallScreen from './components/small-Screen';
+import SmallScreen from './components/small-screen';
 
 const app = document.querySelector('main');
 const media = window.matchMedia('(max-width: 1024px)') 
